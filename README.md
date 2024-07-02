@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm wahab</h1>
-🔭 I’m currently working on click and collect FoodEatck<br><br>🌱 I’m currently learning python data science<br><br>💬 Ask me about django<br><br>📫 How to reach me wahab.#8382<br><br>📄 Know about my experiences 5 years of programming
+🔭 I’m currently working on click and collect FoodEatck<br><br>🌱 I’m currently learning python data science<br><br>💬 Ask me about Python<br><br>📫 How to reach me wahab.#8382<br><br>📄 Know about my experiences 5 years of programming
 
 
 # 💻 Tech Stack:
